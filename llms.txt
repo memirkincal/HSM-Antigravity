@@ -1,0 +1,1 @@
+Project is a Hospital Management System. We use Service Objects. Models: Doctor (name, specialization), Patient (name, id_number), Appointment (references doctor/patient, time, status). No overlapping appointments allowed.
